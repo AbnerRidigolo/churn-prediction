@@ -49,6 +49,3 @@ Este projeto utiliza dados do Kaggle (Telco Customer Churn) para prever a rotati
 - Técnicas de balanceamento melhoraram o recall e o F1-score do modelo.
 - Dashboard interativo permite visualizar churn por contrato, tipo de pagamento, tempo de uso e mais.
 
-## ✍️ Autor
-Seu Nome  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil) | [GitHub](https://github.com/seuusuario)
